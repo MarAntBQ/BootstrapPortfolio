@@ -1,3 +1,17 @@
 header {
 
 }
+
+.navbar {
+  padding: 2rem;
+  background: #f5f6f7;
+  &-collapse {
+    align-items: center;
+    justify-content: space-between;
+  }
+  &-brand {
+    @media screen and (max-width: 767px) {
+      display: none;
+    }
+  }
+}

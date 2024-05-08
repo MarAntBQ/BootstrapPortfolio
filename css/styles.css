@@ -1,1 +1,1 @@
-.row{background:orange;border:3px solid skyblue;padding:5px;margin:10px}.columna{color:#fff;font-size:25px;background:#05077b;border:5px solid #fff}i{font-size:250px;color:green}
+.navbar{padding:2rem;background:#f5f6f7}.navbar-collapse{align-items:center;justify-content:space-between}@media screen and (max-width: 767px){.navbar-brand{display:none}}
